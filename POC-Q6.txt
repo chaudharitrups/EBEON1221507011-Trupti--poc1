@@ -7,6 +7,6 @@
              System.out.println("Value of variable b : "+b);
            }
        }
-OUTPUT:  -128
+OUTPUT:  -127
         because  Range of byte data type :-128 to 127.
-        output  is 128.but this value is out of range .
+        this value is out of range .

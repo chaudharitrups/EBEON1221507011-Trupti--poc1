@@ -1,0 +1,10 @@
+ Find the output and write explanation?
+     class Main {
+       public static void main(String[] args) {
+         int t;
+         System.out.println("Value of variable t : "+t);
+          }
+     }
+
+OUTPUT:      compile time error,
+         Because variable t is not initialized here.
